@@ -3,7 +3,7 @@ A program to manage the issuance of E-Books to a class of students. This program
 
 In this README, I will tell you how to use the program!  Although it is fairly straitforward in my opinon, instructions are always a helpful addition.
 
-Firstly, I've included both the source code as well as a runnable JAR file.  To view the source code, you can either use GitHub to view it, or import it into your IDE.  To run the JAR file, make sure you have Java installed on your computer!
+Firstly, I've included the source code.  You can either use GitHub to view it, or import it into your IDE to run it.  I was unsure how to exactly submit the project.  I figured that the code is more important than a one file application.  It can easily be turned into a jar.
 
 Instructions:
   When you open the program you will be greeted with an interface.  There will be two buttons, one saying "View Books" the other saying "Admin".  The "View Books" is meant for students to browse books without the ability to checkout or manage other students info.  The "Admin" button will bring you to the page where you can browse/ assign/return book.  You can also manage students in this area.  Every list, being either books or students, will come with a search bar!
