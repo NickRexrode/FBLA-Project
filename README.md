@@ -1,6 +1,6 @@
 # FBLA-Project
 A program to manage the issuance of E-Books to a class of students. This program was made for the Coding and Programming Event (FBLA 2019).
-
+All of the code in this program except the json-simple library has been created by me, Nick Rexrode.  I used the Library to save time on my half.  It also is easy to use and understand.
 # BEFORE RUNNING THE PROGRAM!!!
   - Be sure that you add the json-simple jar file to the projects build path!  This is needed to read and write the JSON to the files!
 
