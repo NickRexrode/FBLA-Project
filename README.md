@@ -1,6 +1,12 @@
 # FBLA-Project
 A program to manage the issuance of E-Books to a class of students. This program was made for the Coding and Programming Event (FBLA 2019).
 
+# BEFORE RUNNING THE PROGRAM!!!
+  - Be sure that you add the json-simple jar file to the projects build path!  This is needed to read and write the JSON to the files!
+
+
+
+
 In this README, I will tell you how to use the program!  Although it is fairly straitforward in my opinon, instructions are always a helpful addition.
 
 Firstly, I've included the source code.  You can either use GitHub to view it, or import it into your IDE to run it.  I was unsure how to exactly submit the project.  I figured that the code is more important than a one file application.  It can easily be turned into a jar.
